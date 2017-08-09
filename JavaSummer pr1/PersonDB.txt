@@ -1,0 +1,84 @@
+Minerva McGongall
+Gryffindor
+Pureblood
+Hogwarts
+unknown
+professor
+*
+Severus Snape
+slytherin
+Halfblood
+Hogwarts
+unknown
+professor
+*
+Draco Malfoy
+Slytherin
+Pureblood
+Hogwarts
+unknown
+student
+*
+Harry Potter
+Gryffindor
+Pureblood
+Hogwarts
+unknown
+student
+*
+Nevile Longbottom
+Gryffindor
+Pureblood
+Hogwarts
+unknown
+student
+*
+Luna Lovegood
+Ravenclaw
+Pureblood
+Hogwarts
+unknown
+student
+*
+Lavender Brown
+Gryffindor
+Pureblood
+Hogwarts
+unknown
+student
+*
+Cedric Diggory
+Hufflepuff
+Pureblood
+Hogwarts
+unknown
+student
+*
+Cho Chang
+Ravenclaw
+Halfblood
+Hogwarts
+unknown
+student
+*
+Filius Flitwick
+Hufflepuf
+Pureblood
+Hogwarts
+unknown
+professor
+*
+Remus Lupin
+Gryffindor
+Pureblood
+Hogwarts
+unknown
+professor
+*
+Madame Hooche
+Ravenclaw
+Pureblood
+Hogwarts
+unknown
+professor
+$
