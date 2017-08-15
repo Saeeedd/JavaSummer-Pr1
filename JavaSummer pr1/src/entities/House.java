@@ -3,7 +3,7 @@ package entities;
 import java.util.*;
 
 public class House {
-    //cunstructors
+    //constructors
     public House(String _name, School _school, Vector<Student> _students, Professor _headTecher, ArrayList<String> _qualities, Map<Integer, Student> _prefects) {
         name = _name;
         school = _school;
