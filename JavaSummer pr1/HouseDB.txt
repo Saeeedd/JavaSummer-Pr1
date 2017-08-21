@@ -4,26 +4,44 @@ Hogwarts
 Luna Lovegood
 Cho Chang
 *
+Gryffindor
+Hogwarts
+5
+Harry Potter
+Hermoine Granger
+Ronald Weasley
+Nevile Longbottom
+Seamus Finnigan
+*
 Hufflepuff
 Hogwarts
-2
+1
 Cedric Diggory
-Filius Flitwick
 *
-slytherins
+Slytherin
 Hogwarts
 2
 Draco Malfoy
-Severus Snape
+Penelope Clearwater
 *
-Gryffindor
-Hogwarts
-7
-Lavender Brown
-Harry Potter
-Minerva McGonagol
-Nevile Longbottom
-Hermoine Granger
-Ronald Weasley
-Remus Lupin
+Thunderbird
+Ilvermorny
+1
+Chadwig Boot
+*
+Horned Serpent
+Ilvermorny
+1
+Isolt Sayre
+*
+Pukwudgie
+Ilvermorny
+1
+James Steward
+*
+Wampus
+Ilvermorny
+1
+Webster Boot
+*
 $

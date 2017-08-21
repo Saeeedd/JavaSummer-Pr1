@@ -4,28 +4,27 @@ Gryffindor
 Hufflepuff
 Ravenclaw
 Slytherin
-5
-Flying
-Potions
-Transfiguration
-The Defence Against the Dark Arts
-Charms
-9
+3
 Nevile Longbottom
 Luna Lovegood
 Lavender Brown
-Harry Potter
-Cho Chang
-Cedric Digory
-Draco Malfoy
-Hermoine Granger
-Ronald Weasley
-5
+2
 Minerva McGonagol
 Severus Snape
-Madame Hooche
-Remus Lupin
-Filius Flitwick
+2
+Flying
+Potions
+England
+*
+Durmstrang
+0
+1
+Viktor Krum
+1
+Igor Karkaroff
+1
+Flying
+Russia
 *
 $
 

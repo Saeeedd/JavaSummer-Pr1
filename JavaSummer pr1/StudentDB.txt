@@ -1,55 +1,23 @@
+Fleur Delacour
+N/A
+half-breed
+Beauxbatton
+unknown
+2
+Charms
+Flying
 *
-Name Harry Potter
-School Hogwarts
-House Gryffindor
-Blood Pure
-Birthday 31/07/1997
+Harry Potter
+Gryffindor
+Pureblood
+Hogwarts
+01.07.1997
+6
+Flying
+Charms
+Defense Against the Dark Arts
+Divination
+History of Magic
+Muggle Studies
 *
-Name Nevile Longbottom
-School Hogwarts
-House Gryffindor
-Blood Pure
-Birthday 31/09/1997
-*
-Name Luna Lovegood
-School Hogwarts
-House Ravenclaw
-Blood Pure
-Birthday 31/07/1997
-*
-Name Lavender Brown
-School Hogwarts
-House Gryffindor
-Blood Pure
-Birthday 31/07/1996
-*
-Name Cho Chang
-School Hogwarts
-House Gryffindor
-Blood Half
-Birthday 31/07/1997
-*
-Name Cedric Digory
-School Hogwarts
-House Hufflepuf
-Blood Pure
-Birthday 31/07/1997
-*
-Name Draco Malfoy
-School Hogwarts
-House Slytherin
-Blood Pure
-Birthday 31/07/1997
-*
-Name Hermoine Granger
-School Hogwarts
-House Gryffindor
-Blood Muggleborn
-Birthday 25/07/1997
-*
-Name Ronald Weasley
-School Hogwarts
-House Gryffindor
-Blood Pure
-Birthday 3/04/1997
 $

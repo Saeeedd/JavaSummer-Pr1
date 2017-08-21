@@ -1,84 +1,25 @@
-Minerva McGongall
+Severus Snape
+Slytherin
+Half-blood
+Hogwarts
+09.01.1960
+*
+Albus Dumbledore
 Gryffindor
 Pureblood
 Hogwarts
 unknown
-professor
 *
-Severus Snape
-slytherin
-Halfblood
-Hogwarts
+Fleur Delacour
+N/A
+part-human
+Beauxbatton
 unknown
-professor
-*
-Draco Malfoy
-Slytherin
-Pureblood
-Hogwarts
-unknown
-student
 *
 Harry Potter
 Gryffindor
 Pureblood
 Hogwarts
-unknown
-student
+01.07.1997
 *
-Nevile Longbottom
-Gryffindor
-Pureblood
-Hogwarts
-unknown
-student
-*
-Luna Lovegood
-Ravenclaw
-Pureblood
-Hogwarts
-unknown
-student
-*
-Lavender Brown
-Gryffindor
-Pureblood
-Hogwarts
-unknown
-student
-*
-Cedric Diggory
-Hufflepuff
-Pureblood
-Hogwarts
-unknown
-student
-*
-Cho Chang
-Ravenclaw
-Halfblood
-Hogwarts
-unknown
-student
-*
-Filius Flitwick
-Hufflepuf
-Pureblood
-Hogwarts
-unknown
-professor
-*
-Remus Lupin
-Gryffindor
-Pureblood
-Hogwarts
-unknown
-professor
-*
-Madame Hooche
-Ravenclaw
-Pureblood
-Hogwarts
-unknown
-professor
 $
