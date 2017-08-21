@@ -13,6 +13,7 @@ public class Course {
 
     public Course(String _name) {
         name = _name;
+        students.setSize(0);
     }
 
     //attributes
@@ -64,5 +65,10 @@ public class Course {
 
     public void setStudents(Vector<Student> _students) {
         students = _students;
+    }
+    //methods
+
+    public void addStudent(Student student) {
+        students.add(student);
     }
 }

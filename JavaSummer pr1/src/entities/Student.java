@@ -10,6 +10,12 @@ public class Student extends Person {
         courses = _courses;
     }
 
+    public Student(String _name) {
+        super(_name, null, null, null, null);
+        reportCard = null;
+        courses = null;
+    }
+
     //attributes
     private Vector<FinishedCourse> reportCard;
     private Vector<Course> courses;

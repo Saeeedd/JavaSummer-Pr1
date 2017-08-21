@@ -11,6 +11,11 @@ public class Professor extends Person {
         notes = _notes;
     }
 
+    public Professor(String _name) {
+        super(_name, null, null, null, null);
+        courses = null;
+        notes = null;
+    }
     //attributes
     private Map<Integer, Course> courses;
     private String notes;
